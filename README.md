@@ -6,113 +6,33 @@
 
 ---
 
+```javascript
 const diedwest = {
   name: "diedwest",
   languages: [
-    "HTML5",
-    "CSS3",
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "Java",
-    "C#",
-    "C++",
-    "C",
-    "Go",
-    "Rust",
-    "PHP",
-    "Ruby",
-    "Swift",
-    "Kotlin",
-    "Dart",
-    "Scala",
-    "Perl",
-    "Haskell",
-    "R",
-    "MATLAB",
-    "Objective-C",
-    "D",
-    "Assembly",
-    "Groovy",
-    "PowerShell",
-    "Fortran",
-    "COBOL",
-    "Lua",
-    "Luau",
-    "Shell Script",
-    "SQL",
-    "XML",
-    "JSON",
-    "YAML"
+    "HTML5", "CSS3", "JavaScript", "TypeScript", "Python", "Java", "C#", "C++", "C", "Go", 
+    "Rust", "PHP", "Ruby", "Swift", "Kotlin", "Dart", "Scala", "Perl", "Haskell", "R", 
+    "MATLAB", "Objective-C", "D", "Assembly", "Groovy", "PowerShell", "Fortran", "COBOL", 
+    "Lua", "Luau", "Shell Script", "SQL", "XML", "JSON", "YAML"
   ],
   frameworks_and_libraries: [
-    "React",
-    "Vue.js",
-    "Angular",
-    "Svelte",
-    "Next.js",
-    "Nuxt.js",
-    "Tailwind CSS",
-    "Bootstrap",
-    "Django",
-    "Flask",
-    "FastAPI",
-    "Spring Boot",
-    ".NET",
-    "Node.js",
-    "Express.js",
-    "NestJS",
-    "TensorFlow",
-    "PyTorch",
-    "Scikit-learn",
-    "Pandas",
-    "NumPy",
-    "GraphQL"
+    "React", "Vue.js", "Angular", "Svelte", "Next.js", "Nuxt.js", "Tailwind CSS", "Bootstrap", 
+    "Django", "Flask", "FastAPI", "Spring Boot", ".NET", "Node.js", "Express.js", "NestJS", 
+    "TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "NumPy", "GraphQL"
   ],
   cloud_and_devops: [
-    "Amazon AWS",
-    "Microsoft Azure",
-    "Google Cloud",
-    "Kubernetes",
-    "Docker",
-    "Terraform",
-    "Jenkins",
-    "GitHub Actions"
+    "Amazon AWS", "Microsoft Azure", "Google Cloud", "Kubernetes", "Docker", "Terraform", 
+    "Jenkins", "GitHub Actions"
   ],
   databases: [
-    "PostgreSQL",
-    "MySQL",
-    "MongoDB",
-    "Redis",
-    "SQLite",
-    "Oracle"
+    "PostgreSQL", "MySQL", "MongoDB", "Redis", "SQLite", "Oracle"
   ],
   tools_and_platforms: [
-    "Git",
-    "GitHub",
-    "GitLab",
-    "npm",
-    "Yarn",
-    "pnpm",
-    "VS Code",
-    "Visual Studio",
-    "IntelliJ IDEA",
-    "PyCharm",
-    "WebStorm",
-    "Vim",
-    "Emacs",
-    "Eclipse",
-    "Linux",
-    "Ubuntu",
-    "Windows",
-    "macOS",
-    "Android",
-    "iOS",
-    "Figma",
-    "Postman",
-    "Swagger"
+    "Git", "GitHub", "GitLab", "npm", "Yarn", "pnpm", "VS Code", "Visual Studio", 
+    "IntelliJ IDEA", "PyCharm", "WebStorm", "Vim", "Emacs", "Eclipse", "Linux", "Ubuntu", 
+    "Windows", "macOS", "Android", "iOS", "Figma", "Postman", "Swagger"
   ]
-};
+};```
 
 ---
 
