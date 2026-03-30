@@ -32,7 +32,8 @@ const diedwest = {
     "IntelliJ IDEA", "PyCharm", "WebStorm", "Vim", "Emacs", "Eclipse", "Linux", "Ubuntu", 
     "Windows", "macOS", "Android", "iOS", "Figma", "Postman", "Swagger"
   ]
-};```
+};
+```
 
 ---
 
