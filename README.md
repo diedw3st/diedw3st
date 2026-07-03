@@ -10,7 +10,7 @@
 const diedwest = {
   name: "diedwest",
   languages: [
-    "Python", "Java", "C#", "C++", "C", "Lua", "Luau", "HTML5", "SQL", "XML", "JSON", "YAML"
+   "HTML5", "Python", "Java", "C#", "C++", "C", "Lua", "Luau"
   ],
   tools_and_platforms: [
     "GitHub", "VS Code", "Visual Studio", "Linux", "Windows"
